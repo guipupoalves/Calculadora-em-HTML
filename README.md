@@ -4,7 +4,7 @@
 
 Calculadora feita em página HTML com o uso de Javascript e Estilização através do CSS. O intuito desse projeto é a demonstração de funções de cálculo automático com Javascript (eval) e interação com o usuário através do 'onclick' e a entrega do resultado da operação proposta pelo usuário.
 
-###
+##
 
 English version:
 
